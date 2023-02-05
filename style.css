@@ -163,7 +163,7 @@ html{
     }
 }
 
-@media (min-width: 1279px){
+@media (min-width: 900px){
     .nav{
         justify-content: center;
     }
